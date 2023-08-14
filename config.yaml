@@ -1,0 +1,10 @@
+cluster:
+  api-base: "YOUR_DISCOVERY_URL"
+  discovery-token: "YOUR_CLUSTER_DISCOVERY_TOKEN"
+  name: "YOUR_CLUSTER_NAME"
+ssl:
+  ca-path: "ca.pem"
+  cert-path: "cert.pem"
+  key-password: "YOUR_SSL_PASSWORD"
+  key-path: "key.pem"
+
