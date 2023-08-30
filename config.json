@@ -2,7 +2,8 @@
   "cluster": {
     "api-base": "YOUR_DISCOVERY_URL",
     "discovery-token": "YOUR_CLUSTER_DISCOVERY_TOKEN",
-    "name": "YOUR_CLUSTER_NAME"
+    "name": "YOUR_CLUSTER_NAME",
+    "viridian_id": "YOUR_CLUSTER_ID"
   },
   "ssl": {
     "ca-path": "ca.pem",
