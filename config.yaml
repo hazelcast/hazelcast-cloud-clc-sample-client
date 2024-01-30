@@ -1,6 +1,8 @@
 cluster:
   api-base: "YOUR_DISCOVERY_URL"
   discovery-token: "YOUR_CLUSTER_DISCOVERY_TOKEN"
+  user: "YOUR_CLIENT_USERNAME"
+  password: "YOUR_CLIENT_PASSWORD"
   name: "YOUR_CLUSTER_NAME"
   viridian-id: "YOUR_CLUSTER_ID"
 ssl:
