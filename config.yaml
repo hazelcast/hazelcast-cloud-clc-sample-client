@@ -8,4 +8,3 @@ ssl:
   cert-path: "cert.pem"
   key-password: "YOUR_SSL_PASSWORD"
   key-path: "key.pem"
-
